@@ -13,7 +13,7 @@ Use the `ping` command in the Command Line Interface (CLI) to test network conne
 ## 🧰 Tools Used
 - Windows 11 Command Prompt (CMD)
 - Internet connection
-- 
+
 - ## 🧪 Steps Performed
 1. Opened the Command Prompt.
 2. Typed and executed the following command: ping facebook.com
