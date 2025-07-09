@@ -11,7 +11,8 @@ Use the `ping` command in the Command Line Interface (CLI) to test network conne
 ---
 
 ## 🧰 Tools Used
-- Windows 11 Command Prompt (CMD)
+- TryHackme
+- Linux OS 
 - Internet connection
 
 - ## 🧪 Steps Performed
