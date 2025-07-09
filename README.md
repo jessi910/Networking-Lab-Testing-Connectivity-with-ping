@@ -1,4 +1,4 @@
-# Networking Lab Testing Connectivity with ping 
+# Networking Lab Testing Connectivity with ping using Linux OS
 # 🧍🏽 Performed By:
 **Jessica Stovall**  
 Aspiring Cybersecurity Analyst | Army Veteran 
